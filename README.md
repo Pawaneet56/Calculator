@@ -12,4 +12,4 @@ Calculation Screenshot
 
 
 
-[![Whats-App-Image-2021-02-20-at-21-43-38.jpg](https://i.postimg.cc/bvJmKNcB/Whats-App-Image-2021-02-20-at-21-43-38.jpg)](https://postimg.cc/872dvGCR)
+[![Whats-App-Image-2021-02-20-at-22-35-36.jpg](https://i.postimg.cc/4xCKD8Ck/Whats-App-Image-2021-02-20-at-22-35-36.jpg)](https://postimg.cc/nCkc7Gc0)
