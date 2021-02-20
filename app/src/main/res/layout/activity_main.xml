@@ -354,25 +354,26 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
+                android:textSize="20dp"
                 android:id="@+id/first_string_part" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
+                android:textSize="20dp"
                 android:id="@+id/operation_part" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textSize="20dp"
 
                 android:id="@+id/second_string_part" />
 
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
+                android:textSize="20dp"
                 android:id="@+id/result_part" />
         </LinearLayout>
 
